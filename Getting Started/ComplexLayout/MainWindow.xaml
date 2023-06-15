@@ -15,14 +15,14 @@
                 Background="Lavender">Some More Text</TextBlock>
         <DockPanel Background="Bisque">
             <StackPanel DockPanel.Dock="Top">
+                <Button
+                Height="30px"
+                Width="100px"
+                Content="Button2"/>
                 <Button HorizontalAlignment="Left" 
                 Height="30px"
                 Width="100px"
-                Margin="10,10,10,10">Button1</Button>
-                <Button HorizontalAlignment="Left"
-                Height="30px"
-                Width="100px"
-                Margin="10,10,10,10">Button2</Button>
+                Margin="10,10,10,10" Content="Button1"/>
             </StackPanel>
             <TextBlock Background="LightGreen">Some Text Below the Buttons</TextBlock>
         </DockPanel>
