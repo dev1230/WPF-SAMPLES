@@ -52,3 +52,6 @@ The easiest way to use these samples without using Git is to download the zip fi
    * By default, all the samples target .NET 6.0. (Installers for the .NET 6 SDK can be found at <https://dotnet.microsoft.com/en-us/download>)
 
 For more info about the programming models, platforms, languages, and APIs demonstrated in these samples, please refer to the guidance  available in  [MSDN](https://msdn.microsoft.com/en-us/library/ms754130.aspx). These samples are provided as-is in order to indicate or demonstrate the functionality of the programming models and feature APIs for WPF.
+
+
+2024-01-01 readme.md 수정 테스트
